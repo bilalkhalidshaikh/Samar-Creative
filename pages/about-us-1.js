@@ -44,10 +44,10 @@ function AboutUs1() {
                 <div className="col-lg-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
                     <div className="section-head style-1 mb-4">
                         <h6 className="sub-title bgl-primary m-b20 text-primary">About Us</h6>
-                        <h2 className="title">How We Can Help You Achieve Your Business Goal</h2>
+                        <h2 className="title">How digital smith can leverage your potential with Artificial intelligence.</h2>
                     </div>
-                    <p>Integer pretium molestie nisl, non blandit lectus suscipit in. Vivamus tellus diam, iaculis eget nulla sit amet, tincidunt consectetur sem. Suspendisse laoreet, quam sed faucibus feugiat, tortor velit suscipit orci, sed consectetur ante eros id urna. Mauris luctus nulla ut pharetra tempor.</p>
-                    <p className="m-b30">Mauris egestas eleifend sapien eu malesuada. Phasellus at metus eget sapien tristique accumsan non sit amet augue.</p>
+                    <p>Discover our wide range of AI-based digital products designed to revolutionize the way you work and live. At AI Emporium, we are proud to present our latest digital product, Smart AI Prompts, a groundbreaking tool designed to optimize your interactions with ChatGPT. Built on cutting-edge AI algorithms, Smart AI Prompts generates high-quality.</p>
+                        <p className="m-b30">Contextually relevant prompts to improve the quality of your ChatGPT responses and elevate your overall experience.</p>
                     <div className="row">
                         <div className="col-lg-6">
                             <ul className="list-arrow primary">

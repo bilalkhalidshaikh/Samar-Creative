@@ -21,9 +21,9 @@ function Service() {
       <div className="container">
         <div className="section-head style-1 text-center">
           <h6 className="sub-title bgl-primary m-b20 text-primary">
-            Services
+            OUR TOOLS
           </h6>
-          <h2 className="title">Provide Awesome Service To You</h2>
+          <h2 className="title"> BOOST YOUR CREATIVITY WITH OUR RESULTS DRIVEN AI TOOLS</h2>
         </div>
         <div className="row">
           <div
@@ -47,11 +47,9 @@ function Service() {
                   </Link>  
               </div>
               <div className="icon-content">
-                <h4 className="dlab-title">Strategy & Research</h4>
+                <h4 className="dlab-title">Smart AI Prompts </h4>
                 <p>
-                  Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                  eget sapien euismod, faucibus nibh non, consequat elit.
-                  Praesent sed vehicula.
+                Smart AI Prompts enhances ChatGPT with refined prompts for clear, accurate responses, perfect for information seeking, problem-solving, or brainstorming, upgrading your experience.
                 </p>
               </div>
             </div>
@@ -77,11 +75,9 @@ function Service() {
                   </Link>	
               </div>
               <div className="icon-content">
-                <h4 className="dlab-title">Web Development</h4>
+                <h4 className="dlab-title">Journey to midjourney</h4>
                 <p>
-                  Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                  eget sapien euismod, faucibus nibh non, consequat elit.
-                  Praesent sed vehicula.
+                Master stellar results with our digital course, Journey to Midjourney, providing midjourney enthusiasts with valuable insights, strategies, and tips to overcome challenges and achieve success.
                 </p>
               </div>
             </div>
@@ -107,11 +103,9 @@ function Service() {
                   </Link>	
               </div>
               <div className="icon-content">
-                <h4 className="dlab-title">Web Solution</h4>
+                <h4 className="dlab-title">Design and development</h4>
                 <p>
-                  Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                  eget sapien euismod, faucibus nibh non, consequat elit.
-                  Praesent sed vehicula.
+                We provide services that cover all aspects of the digital world in order to help you not only create a seamless business process but also reach your target audience!
                 </p>
               </div>
             </div>
