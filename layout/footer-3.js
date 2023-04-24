@@ -86,7 +86,7 @@ function Footer3() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-12 text-center"> 
-						<span className="copyright-text">Copyright © 2022 <a href="https://dexignzone.com/" target="_blank">DexignZone</a>. All rights reserved.</span> 
+					<span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">Samar</a>. All rights reserved.</span> 
 					</div>
                 </div>
             </div>
