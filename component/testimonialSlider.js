@@ -72,16 +72,13 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                                “Aenean massa diam, sollicitudin non dui ut,
-                                facilisis viverra libero. Nulla facilisi. Nunc
-                                sed purus erat. Praesent placerat dictum libero,
-                                eu varius nulla vulputate non”
+                            "DigitalSmith has completely transformed the way we manage our business operations. Its user-friendly interface and advanced features have made it incredibly easy to streamline our processes and improve our efficiency. I highly recommend this product to anyone."
                             </p>
                         </div>
                         <div className="testimonial-detail">
                             <div className="testimonial-pic">
                                 <img
-                                    src="images/testimonials/pic3.jpg"
+                                    src="images/testimonials/cak.jfif"
                                     alt=""
                                 />
                             </div>
@@ -121,16 +118,13 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                                “Aenean massa diam, sollicitudin non dui ut,
-                                facilisis viverra libero. Nulla facilisi. Nunc
-                                sed purus erat. Praesent placerat dictum libero,
-                                eu varius nulla vulputate non”
+                            "As a small business owner, I was struggling to keep up with the demands of running my business. DigitalSmith has been a lifesaver! Its simple and intuitive design has made managing my finances, inventory, and customers a breeze. I couldn't be happier with this product." 
                             </p>
                         </div>
                         <div className="testimonial-detail">
                             <div className="testimonial-pic">
                                 <img
-                                    src="images/testimonials/pic3.jpg"
+                                    src="images/testimonials/lora.jfif"
                                     alt=""
                                 />
                             </div>
@@ -139,7 +133,7 @@ const renderArrows = () => {
                                     Lora Price
                                 </strong>
                                 <span className="testimonial-position">
-                                    CEO & Founder{" "}
+                                    Owner{" "}
                                 </span>
                                 <ul className="star-rating">
                                     <li>
@@ -170,10 +164,7 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                                “Aenean massa diam, sollicitudin non dui ut,
-                                facilisis viverra libero. Nulla facilisi. Nunc
-                                sed purus erat. Praesent placerat dictum libero,
-                                eu varius nulla vulputate non”
+                            "DigitalSmith has saved us countless hours of work and made our marketing campaigns more effective and productive than ever before. Its advanced analytics and reporting tools have helped us better understand our customers and improve our messaging." 
                             </p>
                         </div>
                         <div className="testimonial-detail">
@@ -185,10 +176,10 @@ const renderArrows = () => {
                             </div>
                             <div className="clearfix">
                                 <strong className="testimonial-name">
-                                    Cak Dikin
+                                Sara John,
                                 </strong>
                                 <span className="testimonial-position">
-                                    CEO & Founder{" "}
+                                Marketing Manager{" "}
                                 </span>
                                 <ul className="star-rating">
                                     <li>
@@ -219,25 +210,22 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                                “Aenean massa diam, sollicitudin non dui ut,
-                                facilisis viverra libero. Nulla facilisi. Nunc
-                                sed purus erat. Praesent placerat dictum libero,
-                                eu varius nulla vulputate non”
+                            "DigitalSmith has been a game-changer for our team collaboration and productivity and efficiently. Its project management tools have helped us stay organized and on track, while its communication features have improved our team's ability to work together efficiently."
                             </p>
                         </div>
                         <div className="testimonial-detail">
                             <div className="testimonial-pic">
                                 <img
-                                    src="images/testimonials/pic3.jpg"
+                                    src="images/testimonials/pic2.jpg"
                                     alt=""
                                 />
                             </div>
                             <div className="clearfix">
                                 <strong className="testimonial-name">
-                                    Cak Dikin
+                                Tom Williams,
                                 </strong>
                                 <span className="testimonial-position">
-                                    CEO & Founder{" "}
+                                Project Manager{" "}
                                 </span>
                                 <ul className="star-rating">
                                     <li>

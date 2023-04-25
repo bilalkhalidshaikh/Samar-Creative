@@ -3,8 +3,8 @@ function Counter2() {
     return (
       <>
         {/* <!-- Counters 2 --> */}
-		<section className="counter-wraper-2 overlay-gradient-dark"> 
-			<div className="counter-inner content-inner-3" style={{"backgroundImage":"url(images/background/bg14.png)","backgroundPosition":"center","backgroundRepeat":"no-repeat"}}>
+		<section className="counter-wraper-2 overlay-gradient-light"> 
+			<div className="counter-inner content-inner-3" style={{"backgroundImage":"url(images/background/bg14.png)","backgroundPosition":"center","backgroundRepeat":"no-repeat",backgroundColor:"#0F2851"}}>
 				<div className="container">
 					<div className="row">
 						<div className="col-lg-3 col-sm-6 m-b30">

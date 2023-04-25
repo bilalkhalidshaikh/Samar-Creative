@@ -20,7 +20,7 @@ function Pricing() {
                                 <div className="pricingtable-price"> 
                                     <h2 className="pricingtable-bx">$99<small>/Month</small></h2>
                                 </div>
-                                <p className="text">Aliquam dui lacus, lobortis quis sapien non.</p>
+                                <p className="text">Basic plan per month: affordable solution for essential features and functions.</p>
                                 <ul className="pricingtable-features">
                                     <li>Graphic Design </li>
                                     <li>Web Design</li>
@@ -44,7 +44,7 @@ function Pricing() {
                                 <div className="pricingtable-price"> 
                                     <h2 className="pricingtable-bx">$199<small>/Month</small></h2>
                                 </div>
-                                <p className="text">Aliquam dui lacus, lobortis quis sapien non.</p>
+                                <p className="text">Standard plan: more comprehensive features and flexibility</p>
                                 <ul className="pricingtable-features">
                                     <li>Graphic Design </li>
                                     <li>Web Design</li>
@@ -68,7 +68,7 @@ function Pricing() {
                                 <div className="pricingtable-price"> 
                                     <h2 className="pricingtable-bx">$149<small>/Month</small></h2>
                                 </div>
-                                <p className="text">Aliquam dui lacus, lobortis quis sapien non.</p>
+                                <p className="text">Premium plan: top-level offering with comprehensive features</p>
                                 <ul className="pricingtable-features">
                                     <li>Graphic Design </li>
                                     <li>Web Design</li>

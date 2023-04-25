@@ -14,7 +14,7 @@ function Slider1 () {
                           <div className="banner-content">
                           {/*  Digital Solutions & Expert Consultation Services for Artificial Intelligence */}
                               <h6 data-wow-duration="1s" data-wow-delay="0.5s" className="wow fadeInUp sub-title text-primary">We Create Ideas</h6>
-                              <h1 data-wow-duration="1.2s" data-wow-delay="1s" className="wow fadeInUp ">Digital Solutions & Expert Consultation Services for <span className="text-primary">Artificial Intelligence </span></h1>
+                              <h1 data-wow-duration="1.2s" data-wow-delay="1s" className="wow fadeInUp " style={{color:'#0F2851'}}>Digital Solutions & Expert Consultation Services for <span  style={{color:'#45D7A2'}}>Artificial Intelligence </span></h1>
                               <p  data-wow-duration="1.4s" data-wow-delay="1.5s" className="wow fadeInUp m-b30">Unlock the Full Potential of AI with Our Cutting-Edge Digital Products & Unparalleled Consultation Services.</p>
                               <Link
                                   href="/about-us-1"

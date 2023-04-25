@@ -3,7 +3,7 @@
 function Newsletter() {
     return (
       <>
-        <section className="content-inner-3 bg-primary" style={{"backgroundImage":"url(images/background/bg13.png)","backgroundRepeat":"no-repeat","backgroundSize":"cover"}}>
+        <section className="content-inner-3 " style={{"backgroundImage":"url(images/background/bg13.png)","backgroundRepeat":"no-repeat","backgroundSize":"cover",backgroundColor:"#0F2851"}}>
 			<div className="container">
 				<div className="row align-items-center">
 					<div className="col-lg-4 col-md-5 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -15,7 +15,7 @@ function Newsletter() {
 						<div className="section-head style-1 text-white">
 							<h6 className="sub-title bgl-light m-b20">Newsletter</h6>
 							<h2 className="title m-b15">Subscribe To Our Newsletter For Latest Update Of Finanical Services </h2>
-							<p>Curabitur eleifend nibh sit amet ex posuere, vel malesuada turpis pretium. Quisque et tincidunt risus, a tempor massa. Cras tempor egestas libero, eu laoreet enim pharetra non.</p>
+							<p>Our newsletter is packed with valuable information that can help you make informed decisions about your finances, whether you're an individual, small business owner, or large corporation. </p>
 						</div>
 						<div className="dlab-subscribe style-2 max-w500">
 							<form className="dzSubscribe" action="script/mailchamp.php" method="post">

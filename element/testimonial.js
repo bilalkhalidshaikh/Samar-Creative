@@ -4,7 +4,7 @@ import TestimonialSlider from './../component/testimonialSlider';
 function Testimonial() {
   return (
     <>
-      <section className="content-inner bg-primary" style={{"backgroundImage":"url(images/background/bg3.png)"}}>
+      <section className="content-inner" style={{"backgroundImage":"url(images/background/bg3.png)",backgroundColor:"#0F2851",}}>
 			<div className="px-xl-5 px-md-4 px-3">
 				<div className="row testimonials-wraper-1">
 					<div className="col-lg-9">
@@ -14,7 +14,7 @@ function Testimonial() {
 						<div className="section-head style-1 text-white p-t15">
 							<h6 className="sub-title bgl-light m-b20">Testmonial</h6>
 							<h2 className="title m-b10">See What Are They Say About Us </h2>
-							<p>Fusce vitae sapien eu mauris semper faucibus eget tristique lorem.</p>
+							<p>Check out our testimonials and reviews to see how we've helped other clients achieve their goals and improve their businesses.</p>
 						</div>
 					</div>
 				</div>

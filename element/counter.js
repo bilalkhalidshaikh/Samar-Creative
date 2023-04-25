@@ -3,7 +3,7 @@ import Counterup from '../component/counterup';
 function Counter() {
     return (
       <>
-        <section className="content-inner bg-primary" style={{"backgroundImage":"url(images/background/bg3.png)","backgroundRepeat":"no-repeat","backgroundSize":"cover"}}>
+        <section className="content-inner " style={{"backgroundImage":"url(images/background/bg3.png)","backgroundRepeat":"no-repeat","backgroundSize":"cover",backgroundColor:"#0F2851"}}>
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">

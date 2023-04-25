@@ -3,12 +3,12 @@ $enable-deprecation-messages: false;
 $ignore-warning             : true;
 
 :root{
-	--gradient: linear-gradient(to right,#896eff 0,#5f3bff 51%,#896eff 100%);
+	--gradient: linear-gradient(to right,#0F2851 0,#5f3bff 51%,#0F2851 100%);
 	--gradient-sec: linear-gradient(to right,#130065 0,#2b0ead 51%,#130065 100%);
 }
 
 // Color
-$primary   : #896eff;
+$primary   : #0F2851;
 $secondary : #1f2471 !default;
 $success   : #029e76 !default;
 $info      : #00aeff !default;

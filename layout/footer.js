@@ -3,14 +3,14 @@ import Link from 'next/link';
 function Footer() {
   return <>
     {/* <!-- Footer --> */}
-  <footer className="site-footer style-1" id="footer" style={{"backgroundImage":"url(images/background/bg10.png)"}}>
+  <footer className="site-footer style-1" id="footer" style={{"backgroundImage":"url(images/background/bg10.png)",backgroundColor:"#0F2851",}}>
       <div className="footer-top">
           <div className="container">
               <div className="footer-info wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s">
                   <div className="row align-items-center">
                       <div className="col-xl-6 col-md-4">
                           <div className="footer-logo">
-                              <a href="/"><img src="images/logo-white.png" alt=""/></a> 
+                              <a href="/"><img src="images/logo.png"  style={{width:'120px',height:'50px'}}  alt=""/></a> 
                           </div>
                       </div>
                       <div className="col-xl-3 col-md-4 col-sm-6">
@@ -47,7 +47,8 @@ function Footer() {
                   <div className="col-xl-3 col-lg-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                       <div className="widget widget_about">
                           <h5 className="footer-title">About Us</h5>
-                          <p>Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.</p>
+                          <p>At DigitalSmith, our mission is to help small businesses succeed by providing them with the tools they need to streamline their operations, improve their performance, and achieve their goals.
+</p>
                           <div className="dlab-social-icon">
                               <ul>
                                   <li><a className="fa fa-facebook" href="https://en-gb.facebook.com/"></a></li>
@@ -97,11 +98,11 @@ function Footer() {
           </div>
       </div>
       {/* <!-- footer bottom part --> */}
-      <div className="footer-bottom wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
+      <div className="footer-bottom wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s" style={{backgroundColor:"#0F2851",borderTop:'1px solid #ccc'}}>
           <div className="container">
               <div className="row">
                   <div className="col-sm-12 text-center"> 
-                      <span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">Samar</a>. All rights reserved.</span> 
+                      <span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">TheDigitalSmith</a>. All rights reserved.</span> 
                   </div>
               </div>
           </div>
