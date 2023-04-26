@@ -40,7 +40,7 @@ function Counter() {
 								</a> 
 							</div>
 							<div className="icon-content">
-								<span className="title">Project Lunched</span>
+								<span className="title">Project Launched</span>
 								<h2 className="counter m-b0 text-primary"><Counterup  count={7894}/></h2>
 							</div>
 						</div>

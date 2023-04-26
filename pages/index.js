@@ -32,7 +32,7 @@ function Home() {
         <Projects />
         <Newsletter />
         <Team />
-        <Pricing />
+        {/* <Pricing /> */}
         <Testimonial />
         <Blog />
         <Quote />

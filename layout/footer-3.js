@@ -58,7 +58,7 @@ function Footer3() {
 							<ul>
 								<li><a href="javascript:void(0);">FAQ</a></li>
 								<li><a href="javascript:void(0);">Portfolio</a></li>
-								<li><a href="javascript:void(0);">Privacy Policy</a></li>
+								<li><a href="/privacy-policy">Privacy Policy</a></li>
 								<li><a href="javascript:void(0);">Terms & Conditions</a></li>
 								<li><a href="javascript:void(0);">Support </a></li>
 							</ul>
@@ -70,15 +70,15 @@ function Footer3() {
 							<ul>
 								<li>
 									<i className="fa fa-phone gradient"></i>
-									<span>+91 123-456-7890<br/>+91 987-654-3210</span> 
+									<span>+12544624447<br/>+12544624447</span> 
 								</li>
 								<li>
 									<i className="fa fa-envelope gradient"></i> 
-									<span>info@example.com <br/>info@example.com</span>
+									<span>hello@thedigitalsmith.co <br/>hello@thedigitalsmith.co</span>
 								</li>
 								<li>
 									<i className="fa fa-map-marker gradient"></i>
-									<span>Marmora Road Chi Minh City, Vietnam</span>
+									<span>Killeen, Texas United States of America</span>
 								</li>
 							</ul>
 						</div>

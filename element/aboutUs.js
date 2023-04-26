@@ -18,7 +18,7 @@ function AboutUs() {
                         <p>Discover our wide range of AI-based digital products designed to revolutionize the way you work and live. At AI Emporium, we are proud to present our latest digital product, Smart AI Prompts, a groundbreaking tool designed to optimize your interactions with ChatGPT. Built on cutting-edge AI algorithms, Smart AI Prompts generates high-quality.</p>
                         <p className="m-b30">Contextually relevant prompts to improve the quality of your ChatGPT responses and elevate your overall experience.</p>
                         <img src="images/sign.png" alt=""/>
-                        <h4 className="m-b30">CEO Jhone Doe</h4>
+                        <h4 className="m-b30">CEO Aarish Tinwala</h4>
                        <Link
                            href="/about-us-1"
                            className="btn btn-link d-inline-flex align-items-center"><i className="fa fa-angle-right m-r10"></i>Learn More</Link> 

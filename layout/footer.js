@@ -23,7 +23,7 @@ function Footer() {
                                   </Link>	
                               </div>
                               <div className="icon-content">
-                                  <p>+91 987-654-3210<br/>info@example.com</p>
+                                  <p>+12544624447<br/>hello@thedigitalsmith.co</p>
                               </div>
                           </div>
                       </div>
@@ -37,7 +37,7 @@ function Footer() {
                                   </Link>	
                               </div>
                               <div className="icon-content">
-                                  <p>Marmora Road Chi Minh City, Vietnam</p>
+                                  <p>Killeen, Texas United States of America</p>
                               </div>
                           </div>
                       </div>
@@ -86,11 +86,11 @@ function Footer() {
                       <div className="widget widget_services">
                          <h5 className="footer-title">Other links</h5>
                          <ul>
-                              <li><Link href="#">FAQ</Link></li>
-                              <li><Link href="#">Portfolio</Link></li>
-                              <li><Link href="#">Privacy Policy</Link></li>
-                              <li><Link href="#">Terms & Conditions</Link></li>
-                              <li><Link href="#">Support </Link></li>
+                              <li><Link href="/faq-1">FAQ</Link></li>
+                              <li><Link href="/error-404">Portfolio</Link></li>
+                              <li><Link href="/privacy-policy">Privacy Policy</Link></li>
+                              <li><Link href="/terms-conditions">Terms & Conditions</Link></li>
+                              <li><Link href="/support">Support </Link></li>
                           </ul>
                       </div>
                   </div>

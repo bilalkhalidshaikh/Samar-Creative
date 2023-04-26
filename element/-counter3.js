@@ -16,7 +16,7 @@ function Counter3() {
 					<div className="dlab-content-bx style-2 text-center">
 						<div className="icon-content">
 							<h2 className="counter m-b0"><Counterup count={7894}/></h2>
-							<span className="title">Project Lunched</span>
+							<span className="title">Project Launched</span>
 						</div>
 					</div>
 				</div>
