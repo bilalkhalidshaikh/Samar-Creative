@@ -86,6 +86,7 @@ function Footer() {
                       <div className="widget widget_services">
                          <h5 className="footer-title">Other links</h5>
                          <ul>
+                              <li><Link href="/gdpr">GDPR</Link></li>
                               <li><Link href="/faq-1">FAQ</Link></li>
                               <li><Link href="/error-404">Portfolio</Link></li>
                               <li><Link href="/privacy-policy">Privacy Policy</Link></li>

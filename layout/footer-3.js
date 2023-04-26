@@ -56,6 +56,7 @@ function Footer3() {
 						<div className="widget widget_services style-1">
 						   <h5 className="footer-title">Other links</h5>
 							<ul>
+							<li><Link href="/gdpr">GDPR</Link></li>
 								<li><a href="javascript:void(0);">FAQ</a></li>
 								<li><a href="javascript:void(0);">Portfolio</a></li>
 								<li><a href="/privacy-policy">Privacy Policy</a></li>

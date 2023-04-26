@@ -80,7 +80,8 @@ function Footer2() {
 					<div className="col-xl-3 col-lg-3 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s">
 						<div className="widget widget_services">
 						   <h5 className="footer-title">Other links</h5>
-							<ul>
+							<ul>                            
+							 <li><Link href="/gdpr">GDPR</Link></li>
 								<li><a href="javascript:void(0);">FAQ</a></li>
 								<li><a href="javascript:void(0);">Portfolio</a></li>
 								<li><a href="/privacy-policy">Privacy Policy</a></li>
