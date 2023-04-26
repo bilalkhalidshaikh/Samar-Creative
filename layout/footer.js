@@ -10,7 +10,7 @@ function Footer() {
                   <div className="row align-items-center">
                       <div className="col-xl-6 col-md-4">
                           <div className="footer-logo">
-                              <a href="/"><img src="images/logo.png"  style={{width:'120px',height:'50px'}}  alt=""/></a> 
+                              <a href="/"><img src="images/logo-white.png"  style={{width:'120px',height:'70px'}}  alt=""/></a> 
                           </div>
                       </div>
                       <div className="col-xl-3 col-md-4 col-sm-6">
