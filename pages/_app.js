@@ -50,7 +50,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
 		<Head>
-			<title>The Digital Smith</title>
+			<title>The Digital Shark LLC </title>
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon.png"/>
         </Head>	
 		<div className="page-wraper">
