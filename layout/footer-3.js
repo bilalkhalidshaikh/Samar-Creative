@@ -75,7 +75,7 @@ function Footer3() {
 								</li>
 								<li>
 									<i className="fa fa-envelope gradient"></i> 
-									<span>hello@theDigital Sharks LLC.co <br/>hello@theDigital Sharks LLC.co</span>
+									<span>hello@thedigitalsharksllc.co <br/>hello@thedigitalsharksllc.co</span>
 								</li>
 								<li>
 									<i className="fa fa-map-marker gradient"></i>

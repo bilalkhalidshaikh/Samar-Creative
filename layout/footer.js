@@ -23,7 +23,7 @@ function Footer() {
                                   </Link>	
                               </div>
                               <div className="icon-content">
-                                  <p>+12544624447<br/>hello@theDigital Sharks LLC.co</p>
+                                  <p>+12544624447<br/>hello@thedigitalsharksllc.co</p>
                               </div>
                           </div>
                       </div>

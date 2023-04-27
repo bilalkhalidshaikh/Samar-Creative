@@ -49,7 +49,7 @@ Contacting Support:
 </h2>
 <ul className="list-arrow primary">
 <li>
-If you need assistance, please visit our support portal or email us at hello@theDigital Sharks LLC.co.
+If you need assistance, please visit our support portal or email us at hello@thedigitalsharksllc.co.
     
 </li>
 <li>

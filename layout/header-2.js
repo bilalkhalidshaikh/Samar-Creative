@@ -12,7 +12,7 @@ function Header2() {
                             <ul>
                                 <li>
                                     <i className="la la-envelope"></i>{" "}
-                                    hello@theDigital Sharks LLC.co
+                                    hello@thedigitalsharksllc.co
                                 </li>
                                 <li>
                                     <i className="la la-phone-volume"></i> +91
