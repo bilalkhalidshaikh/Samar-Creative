@@ -72,7 +72,7 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                            "DigitalSmith has completely transformed the way we manage our business operations. Its user-friendly interface and advanced features have made it incredibly easy to streamline our processes and improve our efficiency. I highly recommend this product to anyone."
+                            "Digital Sharks LLC has completely transformed the way we manage our business operations. Its user-friendly interface and advanced features have made it incredibly easy to streamline our processes and improve our efficiency. I highly recommend this product to anyone."
                             </p>
                         </div>
                         <div className="testimonial-detail">
@@ -118,7 +118,7 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                            "As a small business owner, I was struggling to keep up with the demands of running my business. DigitalSmith has been a lifesaver! Its simple and intuitive design has made managing my finances, inventory, and customers a breeze. I couldn't be happier with this product." 
+                            "As a small business owner, I was struggling to keep up with the demands of running my business. Digital Sharks LLC has been a lifesaver! Its simple and intuitive design has made managing my finances, inventory, and customers a breeze. I couldn't be happier with this product." 
                             </p>
                         </div>
                         <div className="testimonial-detail">
@@ -164,7 +164,7 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                            "DigitalSmith has saved us countless hours of work and made our marketing campaigns more effective and productive than ever before. Its advanced analytics and reporting tools have helped us better understand our customers and improve our messaging." 
+                            "Digital Sharks LLC has saved us countless hours of work and made our marketing campaigns more effective and productive than ever before. Its advanced analytics and reporting tools have helped us better understand our customers and improve our messaging." 
                             </p>
                         </div>
                         <div className="testimonial-detail">
@@ -210,7 +210,7 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                            "DigitalSmith has been a game-changer for our team collaboration and productivity and efficiently. Its project management tools have helped us stay organized and on track, while its communication features have improved our team's ability to work together efficiently."
+                            "Digital Sharks LLC has been a game-changer for our team collaboration and productivity and efficiently. Its project management tools have helped us stay organized and on track, while its communication features have improved our team's ability to work together efficiently."
                             </p>
                         </div>
                         <div className="testimonial-detail">

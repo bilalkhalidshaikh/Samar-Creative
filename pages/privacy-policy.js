@@ -40,7 +40,7 @@ function AboutUs1() {
 
 Effective date: April 26, 2023
 
-DigitalSmith ("us", "we", or "our") operates the digitalsmith.com website (the "Service").
+Digital Sharks LLC ("us", "we", or "our") operates the Digital Sharks LLC.com website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -105,7 +105,7 @@ Use of Data
 
 </p>
 <br/>
-<h4 className="title">DigitalSmith uses the collected data for various purposes:</h4>
+<h4 className="title">Digital Sharks LLC uses the collected data for various purposes:</h4>
 <br/>
 <ul className="list-arrow primary">
 <li>
@@ -154,11 +154,11 @@ If you are located outside United States and choose to provide information to us
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 <br/>
 <br/>
-DigitalSmith will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Digital Sharks LLC will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 Disclosure of Data
 Business Transaction
-If DigitalSmith is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is safe.
+If Digital Sharks LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is safe.
 
 </div>
 

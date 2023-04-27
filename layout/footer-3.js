@@ -13,7 +13,7 @@ function Footer3() {
 							<div className="footer-logo">
 								<a href="/"><img src="images/logo-white.png" style={{width:'120px',height:'70px'}} alt=""/></a> 
 							</div>
-							<p>At DigitalSmith, our mission is to help small businesses succeed by providing them with the tools they need to streamline their operations, improve their performance, and achieve their goals.
+							<p>At Digital Sharks LLC, our mission is to help small businesses succeed by providing them with the tools they need to streamline their operations, improve their performance, and achieve their goals.
 
 
 
@@ -75,7 +75,7 @@ function Footer3() {
 								</li>
 								<li>
 									<i className="fa fa-envelope gradient"></i> 
-									<span>hello@thedigitalsmith.co <br/>hello@thedigitalsmith.co</span>
+									<span>hello@theDigital Sharks LLC.co <br/>hello@theDigital Sharks LLC.co</span>
 								</li>
 								<li>
 									<i className="fa fa-map-marker gradient"></i>
@@ -92,7 +92,7 @@ function Footer3() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-12 text-center"> 
-					<span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">TheDigitalSmith</a>. All rights reserved.</span> 
+					<span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">TheDigital Sharks LLC</a>. All rights reserved.</span> 
 					</div>
                 </div>
             </div>

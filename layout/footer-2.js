@@ -43,7 +43,7 @@ function Footer2() {
 									</li>
 									<li>
 										<i className="fa fa-envelope gradient"></i> 
-										<span>hello@thedigitalsmith.co <br/>hello@thedigitalsmith.co</span>
+										<span>hello@theDigital Sharks LLC.co <br/>hello@theDigital Sharks LLC.co</span>
 									</li>
 									<li>
 										<i className="fa fa-map-marker gradient"></i>
@@ -98,7 +98,7 @@ function Footer2() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-7 text-left"> 
-						<span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">TheDigitalSmith</a>. All rights reserved.</span> 
+						<span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">TheDigital Sharks LLC</a>. All rights reserved.</span> 
 					</div>
 					<div className="col-lg-6 col-md-5 text-right"> 
 						<div className="dlab-social-icon">

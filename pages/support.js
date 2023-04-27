@@ -37,7 +37,7 @@ function AboutUs1() {
 <div className='container'>
 <h2 className="title">
 
-Welcome to DigitalSmith Support!
+Welcome to Digital Sharks LLC Support!
 </h2>
 <br/>
 Our team is here to help you with any questions or issues you may encounter while using our platform. We strive to provide the best possible support to ensure you have a smooth and seamless experience with our products and services.
@@ -49,7 +49,7 @@ Contacting Support:
 </h2>
 <ul className="list-arrow primary">
 <li>
-If you need assistance, please visit our support portal or email us at hello@thedigitalsmith.co.
+If you need assistance, please visit our support portal or email us at hello@theDigital Sharks LLC.co.
     
 </li>
 <li>
@@ -112,7 +112,7 @@ A: No, the Smart Prompts Library is for personal use only and cannot be shared w
 <br/>
 <h4 className="title">
 
-Thank you for choosing DigitalSmith. We look forward to helping you achieve your marketing goals.
+Thank you for choosing Digital Sharks LLC. We look forward to helping you achieve your marketing goals.
 </h4>
 </div>
 

@@ -102,8 +102,8 @@ function AboutUs1() {
             <h2 className="title">Contact Information:</h2>
             If you have any questions or concerns regarding this privacy policy
             or the processing of your personal data, please contact us at
-            <a href="mailto:hello@thedigitalsmith.co">
-              hello@thedigitalsmith.co
+            <a href="mailto:hello@theDigital Sharks LLC.co">
+              hello@theDigital Sharks LLC.co
             </a>
           </div>
         </section>

@@ -23,7 +23,7 @@ function Footer() {
                                   </Link>	
                               </div>
                               <div className="icon-content">
-                                  <p>+12544624447<br/>hello@thedigitalsmith.co</p>
+                                  <p>+12544624447<br/>hello@theDigital Sharks LLC.co</p>
                               </div>
                           </div>
                       </div>
@@ -47,7 +47,7 @@ function Footer() {
                   <div className="col-xl-3 col-lg-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                       <div className="widget widget_about">
                           <h5 className="footer-title">About Us</h5>
-                          <p>At DigitalSmith, our mission is to help small businesses succeed by providing them with the tools they need to streamline their operations, improve their performance, and achieve their goals.
+                          <p>At Digital Sharks LLC, our mission is to help small businesses succeed by providing them with the tools they need to streamline their operations, improve their performance, and achieve their goals.
 </p>
                           <div className="dlab-social-icon">
                               <ul>
@@ -103,7 +103,7 @@ function Footer() {
           <div className="container">
               <div className="row">
                   <div className="col-sm-12 text-center"> 
-                      <span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">TheDigitalSmith</a>. All rights reserved.</span> 
+                      <span className="copyright-text">Copyright © 2023 <a href="/" target="_blank">TheDigital Sharks LLC</a>. All rights reserved.</span> 
                   </div>
               </div>
           </div>
